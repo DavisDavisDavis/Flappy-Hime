@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/skola/flappy hime code/Flappy Hime/Content/background.png","D:/skola/flappy hime code/Flappy Hime/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",42476,3145813,0.2257916
+"D:/skola/flappy hime code/Flappy Hime/Content/hime happy 2.jpg","D:/skola/flappy hime code/Flappy Hime/Content/bin/DesktopGL/Content/hime happy 2.xnb","TextureProcessor","Texture2DContent",59495,892669,0.0282474

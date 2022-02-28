@@ -1,0 +1,51 @@
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Content\hime happy 2.xnb
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.exe
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.deps.json
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.runtimeconfig.json
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.runtimeconfig.dev.json
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.pdb
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csprojAssemblyReference.cache
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.AssemblyInfoInputs.cache
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.AssemblyInfo.cs
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csproj.CoreCompileInputs.cache
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csproj.CopyComplete
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.dll
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.pdb
+C:\Users\olizo\source\repos\Flappy Hime\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.genruntimeconfig.cache
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Content\background.xnb
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Content\hime happy 2.xnb
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.exe
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.deps.json
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.runtimeconfig.json
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.runtimeconfig.dev.json
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.dll
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\Flappy Hime.pdb
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\skola\flappy hime code\Flappy Hime\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csproj.AssemblyReference.cache
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.GeneratedMSBuildEditorConfig.editorconfig
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.AssemblyInfoInputs.cache
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.AssemblyInfo.cs
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csproj.CoreCompileInputs.cache
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.csproj.CopyComplete
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.dll
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.pdb
+D:\skola\flappy hime code\Flappy Hime\obj\Debug\netcoreapp3.1\Flappy Hime.genruntimeconfig.cache

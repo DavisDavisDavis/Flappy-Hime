@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZeP1Mo8c7WyDZiCuc5whb0/QOVC7EaA9ryCxyC4QVf/NoMlo522qUcQHjb2R4886kHsQnlk/9tCTR8G/M9ih8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olizo\\source\\repos\\Flappy Hime\\Flappy Hime\\Flappy Hime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olizo\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\olizo\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
